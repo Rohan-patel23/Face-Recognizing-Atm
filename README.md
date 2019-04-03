@@ -1,4 +1,4 @@
-# Face-Recognizing-Atm
+# Face-Recognizing-ATM-Machine
 This is new method of payment that has the potential to be safest payment method till date, because it uses biometric data and face recognition algorithms to validate payments.This method reduces the possibility of forgery and and duplication of account details and false payments.Whenever a user initiates a payment, he/she has to validate the payment, not by using an OTP or PIN, but with their face patterns.
 
 Installaion:-
